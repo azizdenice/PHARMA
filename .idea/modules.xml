@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SFTU.iml" filepath="$PROJECT_DIR$/SFTU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SFTU-COMMON/SFTU-COMMON.iml" filepath="$PROJECT_DIR$/SFTU-COMMON/SFTU-COMMON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SFTU-ENGINE/SFTU-ENGINE.iml" filepath="$PROJECT_DIR$/SFTU-ENGINE/SFTU-ENGINE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SFTU-WEB/SFTU-WEB.iml" filepath="$PROJECT_DIR$/SFTU-WEB/SFTU-WEB.iml" />
     </modules>
   </component>
 </project>

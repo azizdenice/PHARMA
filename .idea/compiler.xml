@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SFTU" />
+        <module name="SFTU-COMMON" />
+        <module name="SFTU-ENGINE" />
+        <module name="SFTU-WEB" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="SFTU" target="1.5" />
+      <module name="SFTU-COMMON" target="1.5" />
+      <module name="SFTU-ENGINE" target="1.5" />
+      <module name="SFTU-WEB" target="1.5" />
+      <module name="WEB" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
