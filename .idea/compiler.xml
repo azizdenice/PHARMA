@@ -6,12 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="PHARMA-COMMON" />
+        <module name="PHARMA-ENGINE" />
+        <module name="PHARMA-WEB" />
         <module name="SFTU-COMMON" />
         <module name="SFTU-ENGINE" />
         <module name="SFTU-WEB" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="PHARMA" target="1.5" />
+      <module name="PHARMA-COMMON" target="1.5" />
+      <module name="PHARMA-ENGINE" target="1.5" />
+      <module name="PHARMA-WEB" target="1.5" />
       <module name="SFTU" target="1.5" />
       <module name="SFTU-COMMON" target="1.5" />
       <module name="SFTU-ENGINE" target="1.5" />

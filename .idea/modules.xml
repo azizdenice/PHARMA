@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SFTU.iml" filepath="$PROJECT_DIR$/SFTU.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SFTU-COMMON/SFTU-COMMON.iml" filepath="$PROJECT_DIR$/SFTU-COMMON/SFTU-COMMON.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SFTU-ENGINE/SFTU-ENGINE.iml" filepath="$PROJECT_DIR$/SFTU-ENGINE/SFTU-ENGINE.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SFTU-WEB/SFTU-WEB.iml" filepath="$PROJECT_DIR$/SFTU-WEB/SFTU-WEB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PHARMA.iml" filepath="$PROJECT_DIR$/PHARMA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PHARMA-COMMON/PHARMA-COMMON.iml" filepath="$PROJECT_DIR$/PHARMA-COMMON/PHARMA-COMMON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PHARMA-ENGINE/PHARMA-ENGINE.iml" filepath="$PROJECT_DIR$/PHARMA-ENGINE/PHARMA-ENGINE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PHARMA-WEB/PHARMA-WEB.iml" filepath="$PROJECT_DIR$/PHARMA-WEB/PHARMA-WEB.iml" />
     </modules>
   </component>
 </project>
