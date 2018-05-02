@@ -4,15 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <name>SFTU</name>
+    <name>PHARMA</name>
 
     <properties>
         <spring.data.version>1.11.0.RELEASE</spring.data.version>
         <spring.mvc.version>4.3.5.RELEASE</spring.mvc.version>
     </properties>
 
-    <groupId>com.sftu.me</groupId>
-    <artifactId>SFTU</artifactId>
+    <groupId>com.pharma.me</groupId>
+    <artifactId>PHARMA</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
