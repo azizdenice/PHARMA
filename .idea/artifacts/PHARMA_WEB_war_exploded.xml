@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="PHARMA-WEB:war exploded">
-    <output-path>$PROJECT_DIR$/PHARMA-WEB/target/SFTU-WEB-1.0-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/PHARMA-WEB/target/PHARMA-WEB-1.0-SNAPSHOT</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -18,7 +18,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/PHARMA-WEB/target/SFTU-WEB-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/PHARMA-WEB/target/PHARMA-WEB-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="PHARMA-WEB/web/Web" />
     </root>
